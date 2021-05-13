@@ -1,0 +1,291 @@
+<resources>
+    <string name="app_name">新城練習曲</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="mapsbutton"><![CDATA[交通需要幫助? 點這裡->]]></string>
+    <string name="textview">TextView</string>
+
+
+    <string-array name="live_intro_1">
+        <item>太魯閣蘇西小空間</item>
+        <item>太魯閣蘇西小空間，所屬新城鄉, 位於台九線上185km, 距新城(太魯閣)火車站步行也只要8分鐘, 開車十分鐘內即可進入太魯閣國家公園, 我們提供簡單乾淨且價格超優惠的住宿,
+               雖然沒有市中心那麼繁華, 但是在這裡你可以享受無比幽靜的環境,拋開城市的喧擾, 周圍隨處可看到美麗簡單的景色, 可以讓你徹底的放鬆</item>
+        <item>花蓮縣新城鄉中正路20號</item>
+        <item>全年營業</item>
+        <item>0975-370-826</item>
+        <item>https://reurl.cc/4ynLjv</item>
+    </string-array>
+
+    <string-array name="live_intro_2">
+        <item>太魯閣立閣人文旅店</item>
+        <item>立閣人文旅店，以立霧溪的蜿蜒交織太魯閣的壯麗所命名，百萬年來，立霧溪以外柔內剛之姿劃過大理岩為主要地質的太魯閣而造就世
+              界級景觀，展現出蘊含在磅礡峽谷裡的剛中帶美，猶如這一間雅緻的旅店女主人，遠赴他鄉持之以恆克服重重困難，在多年之後，造就
+              了成功的事業果實，內心如同立霧溪般百折不撓，打造了立閣人文旅店。</item>
+        <item>花蓮縣新城鄉新興路63號</item>
+        <item>全年營業</item>
+        <item>(03)861-1969</item>
+        <item>http://www.liikohotels.com.tw/</item>
+    </string-array>
+
+    <string-array name="play_intro_1">
+        <item>新城車站</item>
+        <item>坐落太魯閣國家公園入口的新城(太魯閣)車站，於101年11月開工進行改建，其嶄新建築之站體就如同一件藝術品，以「門」的意象形塑
+              本車站，參採隱喻立霧溪切割太魯閣峽谷，呈現V形的立面，展現花東第一門面之氣勢與獨特迎賓視覺的意象，另書法家朱振南老師為車
+              站站名題字更增添文化氣息，車站改建後除了有便利的旅運設施、友善車站環境，同時亦將公共藝術之美學引領至公共空間，使交通與人文藝術有美麗邂逅。</item>
+        <item>花蓮縣新城鄉新興一路73號</item>
+        <item>全年開放</item>
+        <item>(03)835- 5941</item>
+        <item>https://www.funhualien.com.tw/xinchengstation</item>
+    </string-array>
+
+    <string-array name="play_intro_2">
+        <item>新城天主堂</item>
+        <item>1956年新城天主堂落成在新城神社原址，諾亞方舟的造型有著新生再造的意義，天主堂洗石子的牆面爬滿了青綠色的藤蔓，內部莊嚴潔淨，兩側窗戶鑲嵌彩繪玻璃，後有聖洗池及告解區。</item>
+        <item>花蓮縣新城鄉博愛路64號</item>
+        <item>全年開放</item>
+        <item>(03)861-1722</item>
+        <item>https://reurl.cc/mqAxrW</item>
+    </string-array>
+
+    <string-array name="play_intro_3">
+        <item>練習曲書店</item>
+        <item>【 不賣書的書店 and 練習人生大小事 】棒球教練與好友，一同在花蓮靠山面海的小村莊，開設的書店，提供旅人 / 學生 / 社區居民，( 免費借閱 ) 書籍的書店。</item>
+        <item>花蓮縣新城鄉信義路252號</item>
+        <item>09:00:-18:00</item>
+        <item>0929102286</item>
+        <item>https://reurl.cc/7ymK0y</item>
+    </string-array>
+
+    <string-array name="play_intro_4">
+        <item>新城國小棒球隊</item>
+        <item>10多年前曾經因故解散，不過在校長張世璿支持下，以及熱愛棒球義務教練胡文偉帶領下，於2015年09月26日正式恢復成軍。
+　　一百零五學年度國小棒球聯賽（硬式組）比賽成績為花蓮縣亞軍，獲得全國賽代表權。重新成立一年半的新城國小棒球隊，於2017年3月1日，拿下花蓮縣第二名，重新爭取到參加全國賽代表權，打破全國新成立球隊拿下代表權，最快紀錄。</item>
+        <item>花蓮縣新城鄉博愛路30號</item>
+        <item>無資料</item>
+        <item>無資料</item>
+        <item>無資料</item>
+    </string-array>
+
+    <string-array name="play_intro_5">
+        <item>新城照相館</item>
+        <item>一個太魯閣國家公園旁的小村落，因為台九線外環道開拓而沒落，也因為佳興檸檬汁而帶來人潮，我們希望用友善環境來改變這裡，歡迎大家一起來活化老屋、關心農業、改變地方產業生態。</item>
+        <item>花蓮縣新城鄉博愛路18號</item>
+        <item>週六、日10:00–16:00</item>
+        <item>0932-821831</item>
+        <item>https://reurl.cc/5ozKvM</item>
+    </string-array>
+
+    <string-array name="play_intro_6">
+        <item>練習曲X新城藝術電力公司</item>
+        <item>從今年開始，練習曲書店整理了閒置的台電大樓，在藝文活動缺乏的花蓮北區打造了『 新城藝術電力公司 』，未來將陸續有不同的藝術活動、講座、展覽，讓偏鄉小村莊，擁有更多美好的事物。</item>
+        <item>花蓮縣新城鄉博愛路39號</item>
+        <item>預約參觀</item>
+        <item>0929102286</item>
+        <item>https://reurl.cc/4yejbD</item>
+    </string-array>
+
+    <string-array name="play_intro_7">
+        <item>斯土有情陶藝坊</item>
+        <item>斯土有情陶藝工作室位於花蓮，並於山中蓋了柴窯，致力於柴燒的研究。設計師堅持手拉手捏也親自劈木燒陶
+              努力將物器以自然樸實的方式呈現出來讓消費者拿在手上享受那份溫暖</item>
+        <item>花蓮縣新城鄉博愛路4號</item>
+        <item>09:00–21:00</item>
+        <item>0933484212</item>
+        <item>https://reurl.cc/6yxKvd</item>
+    </string-array>
+
+    <string-array name="play_intro_8">
+        <item>新城海堤</item>
+        <item>位於花蓮新城鎮旁邊的新城海堤，從花蓮車站過來約30分鐘左右車程，鄰近新城照相館和新城天主堂等景點，有著180度整面的太平洋無敵海景。</item>
+        <item>花蓮縣新城鄉博愛路底</item>
+        <item>24H</item>
+        <item>無資料</item>
+        <item>無資料</item>
+    </string-array>
+
+    <string-array name="play_intro_9">
+        <item>教練好獨木舟、沙灘車體驗</item>
+        <item>來花蓮就是要體驗不同的戶外活動，由孫教練帶你清水斷崖看日出或海洋獨木舟體驗，沙灘飆沙、秘境探險。</item>
+        <item>花蓮縣新城鄉博愛路39號</item>
+        <item>僅供預約</item>
+        <item>0977058155</item>
+        <item>無資料</item>
+    </string-array>
+
+    <string-array name="play_intro_10">
+        <item>米西亞莊園  Mysia farmland</item>
+        <item>各類型活動場地出租·藝文展演·音樂會·原民樂舞展演·樂團現場演唱·無光害賞星聚·無光害賞螢趣·木作藝術體驗課程·不定期週末特色市集·山海獵徑體驗·山海小農餐桌· 營火晚會· 烤肉·寫真攝影（含彩妝造型和服搭)·英、法語口譯服務(English and French speaking )部落環境和生態導覽。
+              ⚠️以上項目務必預約方可成行，感謝配合！</item>
+        <item>花蓮縣秀林鄉崇德村崇德192之38號</item>
+        <item>僅供預約</item>
+        <item>0989-029-508（Michelle）</item>
+        <item>https://reurl.cc/o9A8Rv</item>
+    </string-array>
+
+    <string-array name="eat_intro_1">
+        <item>台灣牛肉麵</item>
+        <item>位於花蓮太魯閣,北上轉新太魯閣大橋時～我們在左手邊!歡迎大家來吃傳承的好滋味喔!</item>
+        <item>花蓮縣新城鄉新興路83號</item>
+        <item>10:30-15:00</item>
+        <item>(03)861-0279</item>
+        <item>https://reurl.cc/2bGzl6</item>
+    </string-array>
+
+    <string-array name="eat_intro_2">
+        <item>佳興冰果室</item>
+        <item>花蓮必訪60年老店-【佳興冰果室】
+              每一口都能喝到實在的感覺，絕不添加檸檬酸劑、防腐劑，讓您喝得健康安心！
+              我們與果農契作，無毒種植，保證每顆檸檬都是健康優質，採收後，用清水沖洗外皮，整顆檸檬連皮打汁，檸檬的酸與煉乳的香甜平衡恰到好處，獨特口感，製作過程繁瑣，因此每日限量瓶數，感謝您的支持與等待。
+              #佳興冰果室堅持三大訴求：\n
+              1. 使用台糖生產的砂糖熬煮\n
+              2. 經三聚氰胺、塑化劑等檢驗合格的煉乳\n
+              3. 不添加檸檬酸劑、防腐劑</item>
+        <item>花蓮縣新城鄉博愛路22號</item>
+        <item>08:00–17:00</item>
+        <item>(03)861- 1888</item>
+        <item>https://reurl.cc/DvEqje</item>
+    </string-array>
+
+    <string-array name="eat_intro_3">
+        <item>曾師傅麻糬</item>
+        <item>曾師傅麻糬，是來自在地花蓮人-曾泰葛夫妻兩人一起打下的事業;從簡陋的攤子做起，到如今已有5間麻糬分店，憑著創意與熱情，讓曾師傅成為花蓮獨樹一格的麻糬品牌。</item>
+        <item>花蓮縣新城鄉新興路130號</item>
+        <item>07:00–22:00</item>
+        <item>(03)861-1191</item>
+        <item>https://reurl.cc/E2eVjv</item>
+    </string-array>
+
+    <string-array name="eat_intro_4">
+        <item>半天紅麻辣館</item>
+        <item>麵，飯，火鍋，不辣的，麻辣的都有！ 麻辣系列分為（小辣，中辣，大辣，超辣）如未告知基本出餐都以小麻小辣為主！ 中午時段與國定假日無供應火鍋！下午五點至七點半才有供應火鍋！</item>
+        <item>花蓮縣新城鄉博愛路9號</item>
+        <item>11:30–14:30,17:00–20:00(周二公休)</item>
+        <item>(03)861-1567</item>
+        <item>https://reurl.cc/kVYr8L</item>
+    </string-array>
+
+    <string-array name="eat_intro_5">
+        <item>懷舊曲 黑膠唱片館</item>
+        <item>「懷舊曲 and 黑膠唱片館」是來到花蓮，不能錯過的藝文風景……(暫停營業中)</item>
+        <item>花蓮縣新城鄉博愛路48-1號</item>
+        <item>暫停營業中</item>
+        <item>暫停提供</item>
+        <item>https://reurl.cc/qm6GVE</item>
+    </string-array>
+
+    <string-array name="eat_intro_6">
+        <item>好好吃食堂</item>
+        <item>新城老宅再生的好好吃食堂，新鮮的食材製作成的好吃甜品，與洛神花刨冰等，都是來到太魯閣國家公園旁的「新城老街」，不可錯過的在地美食。</item>
+        <item>花蓮縣新城鄉博愛路67號</item>
+        <item>夏季週五~週日11:00~18:30</item>
+        <item>0971201995</item>
+        <item>https://reurl.cc/e9AMzj</item>
+    </string-array>
+
+    <string-array name="eat_intro_7">
+        <item>野球泡芙</item>
+        <item>運動員的第二個夢想，目前在練習曲書店販售中，如果來新城，歡迎來試試運動員的手藝。</item>
+        <item>花蓮縣新城鄉信義路252號</item>
+        <item>09:00:-18:00 </item>
+        <item>0929102286</item>
+        <item>https://reurl.cc/MZV3jv</item>
+    </string-array>
+
+    <string-array name="eat_intro_8">
+        <item>聽海小院</item>
+        <item>1、美式料理（阿美族）
+              2、柴燒窯烤麵包：創意麵包、西式麵包（含法國麵包）。
+              3、窯烤麵包DIY課程，2人以上成團。</item>
+        <item>花蓮縣秀林鄉崇德村28-1號</item>
+        <item>僅供預約</item>
+        <item>0989-024-051</item>
+        <item>聽海小院FB : https://reurl.cc/nndrl6</item>
+    </string-array>
+
+    <string-array name="orienteering_0">
+        <item>[起點]</item>
+        <item>新城車站</item>
+        <item>24.1275</item>
+        <item>121.6409</item>
+        <item>坐落太魯閣國家公園入口的新城(太魯閣)車站，於101年11月開工進行改建，其嶄新建築之站體就如同一件藝術品，
+              以「門」的意象形塑本車站，參採隱喻立霧溪切割太魯閣峽谷，呈現V形的立面，展現花東第一門面之氣勢與獨特迎賓視覺的意象，
+              另書法家朱振南老師為車站站名題字更增添文化氣息，車站改建後除了有便利的旅運設施、友善車站環境，同時亦將公共藝術之美學引領至公共空間，
+              使交通與人文藝術有美麗邂逅。</item>
+    </string-array>
+
+    <string-array name="orienteering_1">
+        <item>[第1關]</item>
+        <item>斯土有情陶藝坊</item>
+        <item>24.126032</item>
+        <item>121.652292</item>
+        <item>斯土有情陶藝工作室位於花蓮，並於山中蓋了柴窯，致力於柴燒的研究。設計師堅持手拉手捏也親自劈木燒陶
+              努力將物器以自然樸實的方式呈現出來讓消費者拿在手上享受那份溫暖</item>
+    </string-array>
+
+    <string-array name="orienteering_2">
+        <item>[第2關]</item>
+        <item>新城照相館</item>
+        <item>24.126449</item>
+        <item>121.651888</item>
+        <item>日治初期立霧溪發現沙金，花蓮縣新城鄉的新城村被日本人規劃為移民村。\n
+            而這棟老舊斑駁、屋齡已逾140年的日式建築：新城照相館，目前應算是花蓮縣內屋齡最久的私有日式老建築，
+            照相館內現仍保存半世紀前的老舊照相攝備。\n\n
+            走過半世紀的照相館，為當地人留下了青春的影像，也見證新城村的興旺與繁榮，流露出花蓮鄉下獨特濃厚的風情，
+            留下日治時代迄今的歷史軌跡。</item>
+    </string-array>
+
+    <string-array name="orienteering_3">
+        <item>[第3關]</item>
+        <item>佳興冰果室</item>
+        <item>24.126521</item>
+        <item>121.651940</item>
+        <item>花蓮必訪60年老店-【佳興冰果室】
+              每一口都能喝到實在的感覺，絕不添加檸檬酸劑、防腐劑，讓您喝得健康安心！
+              我們與果農契作，無毒種植，保證每顆檸檬都是健康優質，採收後，用清水沖洗外皮，整顆檸檬連皮打汁，
+              檸檬的酸與煉乳的香甜平衡恰到好處，獨特口感，製作過程繁瑣，因此每日限量瓶數，感謝您的支持與等待。\n\n
+              #佳興冰果室堅持三大訴求：\n
+              1. 使用台糖生產的砂糖熬煮\n
+              2. 經三聚氰胺、塑化劑等檢驗合格的煉乳\n
+              3. 不添加檸檬酸劑、防腐劑</item>
+    </string-array>
+
+    <string-array name="orienteering_4">
+        <item>[第4關]</item>
+        <item>新城藝術電力公司</item>
+        <item>24.127153</item>
+        <item>121.650997</item>
+        <item>練習曲書店整理了閒置的台電大樓，在藝文活動缺乏的花蓮北區打造了『新城藝術電力公司』，
+            未來將陸續有不同的藝術活動、講座、展覽，讓偏鄉小村莊，擁有更多美好的事物。</item>
+    </string-array>
+
+    <string-array name="orienteering_5">
+        <item>[第5關]</item>
+        <item>新城天主堂</item>
+        <item>24.129125</item>
+        <item>121.650408</item>
+        <item>1956年新城天主堂落成在新城神社原址，諾亞方舟的造型有著新生再造的意義，天主堂洗石子的牆面爬滿了青綠色的藤蔓，
+            內部莊嚴潔淨，兩側窗戶鑲嵌彩繪玻璃，後有聖洗池及告解區。</item>
+    </string-array>
+
+    <string-array name="orienteering_6">
+        <item>[終點]</item>
+        <item>練習曲書店</item>
+        <item>24.129133</item>
+        <item>121.650674</item>
+        <item>【不賣書的書店 and 練習人生大小事】\n棒球教練與好友，一同在花蓮靠山面海的小村莊，開設的書店，
+            提供 旅人/學生/社區居民，免費借閱書籍的書店。</item>
+    </string-array>
+
+    <string-array name="orienteering_7">
+        <item> </item>
+        <item>恭喜完成！</item>
+        <item>24.129133</item>
+        <item>121.650674</item>
+        <item>更多新城的故事，散布在各個日常的角落，等著你細細品嘗！</item>
+    </string-array>
+
+    <string name="orienBtn_Default">前往故事點以通關</string>
+    <string name="orienBtn_Pass">下一個故事點</string>
+    <string name="orienBtn_FinishPre">完成！</string>
+    <string name="orienBtn_Finish">想要再次品嘗新城故事嗎？</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name = "inactive_dot">#8C18171C</color>
+    <color name = "active_dot">#BD0847</color>
+
+    <color name="light_font">#FBFBFB</color>
+    <color name="grey_font">#A2A2A2</color>
+    <color name="text_shadow">#050505</color>
+    <color name="text_shadow_white">#FFFFFF</color>
+</resources>
